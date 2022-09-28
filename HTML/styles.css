@@ -1,0 +1,27 @@
+.boss,p{
+  line-height:0.1;
+  text-align: center;
+  font-family: cursive;
+}
+blockquote{
+	text-align: center;
+}
+.boss {
+	margin: 2px;
+	padding: 0;
+	font-size: x-large;
+	text-shadow: 3px 3px 3px #ababab;
+}
+div {
+	display: block;
+
+}
+img{
+	float: right;
+	width: 50%;
+	display: block;
+}
+.social{
+	padding-right: 2%;
+    margin-top: 2%;
+} 
